@@ -1,8 +1,6 @@
-/*********************************************************************
-Program Name : Write a java program to illustrate JSeparator and JMenu.
-Programmer Name : Madhavi Sonawane.
-Date : 20th October 2021.
-**********************************************************************/
+/*******************************************************************************************************
+Program Name : Write a java program to illustrate JSeparator and JMenu and develop a simple text editor.
+********************************************************************************************************/
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
