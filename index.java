@@ -41,7 +41,8 @@ class jSepMenu extends JFrame implements ActionListener
         print=new JMenuItem("Print");
         f4=new JMenuItem("Exit");
        
-        e1=new JMenu("Format");//JMenu
+        //JMenu
+        e1=new JMenu("Format");
         cut=new JMenuItem("Cut");
         copy=new JMenuItem("Copy");
         paste=new JMenuItem("Paste");
@@ -134,8 +135,7 @@ class jSepMenu extends JFrame implements ActionListener
         paste.addActionListener(this);
         select.addActionListener(this);
         about.addActionListener(this);
-        c1.addItemListener(new ItemListener()
-        {
+        c1.addItemListener(new ItemListener(){
             public void itemStateChanged(ItemEvent e)
             {
                 if(c1.isSelected()==true){
