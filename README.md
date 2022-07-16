@@ -2,6 +2,7 @@
   <body>
     <p><h1 align="center" style="color:red;">&#128466;&#65039; Notepad </h1></p>
     <p>
+    <h2><p> &#128204; About </h2></p>
     <ul>
       <li> This is simple Notepad made using Java. </li>
       <li> Swing components have been used to develop this simple text editor. </li>
