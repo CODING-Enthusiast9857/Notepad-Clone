@@ -16,8 +16,10 @@
       <li> We can wrap the text. </li>
       <li> It is also possible to perform cut, copy, paste operation in text editor. </li>
     </ol>
-    <h2><p>&#128247; Screenshots </h2></p>
-    <img src="https://github.com/CODING-Enthusiast9857/Notepad/blob/main/Notepad.png" alt="Notepad">
-    <img src="https://github.com/CODING-Enthusiast9857/Notepad/blob/main/Notepad1.png" alt="Notepad">
+    <h2><p> &#128247; Screenshots </h2></p>
+    <div class="row">
+      <img src="https://github.com/CODING-Enthusiast9857/Notepad/blob/main/Notepad.png" alt="Notepad" height=250 width=480>
+      <img src="https://github.com/CODING-Enthusiast9857/Notepad/blob/main/Notepad1.png" alt="Notepad" height=250 width=480>
+    </div>
   </body>
 </html>
