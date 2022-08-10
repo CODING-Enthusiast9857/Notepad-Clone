@@ -13,6 +13,7 @@
     </ol>
     </p>
     <h2><p> &#10024; Features </h2></p>
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
     <ol>
       <li> We can create a new file. </li>
       <li> We can edit existing file.</li>
@@ -26,6 +27,8 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://github.com/CODING-Enthusiast9857/Notepad/blob/main/Notepad1.png" alt="Notepad" height=250 width=480>
     </div>
+    <h2>📝 License </h2>
+    <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
     <h2>&#128105; Created by </h2>
     <p>Created with &#129293; by 
       <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane.</a>
