@@ -7,10 +7,10 @@
     </div>
     <p>
     <h2><p> &#128204; About </h2></p>
-    <ul>
+    <ol>
       <li> This is simple Notepad made using Java. </li>
       <li> Swing components have been used to develop this simple text editor. </li>
-    </ul>
+    </ol>
     </p>
     <h2><p> &#10024; Features </h2></p>
     <ol>
