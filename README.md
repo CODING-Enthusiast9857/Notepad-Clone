@@ -1,6 +1,10 @@
 <html>
   <body>
-    <p><h1 align="center" style="color:red;">&#128466;&#65039; Notepad </h1></p>
+    <!--p><h1 align="center" style="color:red;">&#128466;&#65039; Notepad </h1></p-->
+    <h1 align="center">Notepad</h1>
+    <div style="position:relative;">
+      <img src="https://github.com/CODING-Enthusiast9857/Notepad-Clone/blob/main/Notepad.jpg" alt="Notepad">
+    </div>
     <p>
     <h2><p> &#128204; About </h2></p>
     <ul>
