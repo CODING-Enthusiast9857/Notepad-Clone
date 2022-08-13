@@ -13,7 +13,7 @@
     </ol>
     </p>
     <h2><p> &#10024; Features </h2></p>
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+    
     <ol>
       <li> We can create a new file. </li>
       <li> We can edit existing file.</li>
