@@ -1,7 +1,8 @@
 <html>
   <body>
     <!--p><h1 align="center" style="color:red;">&#128466;&#65039; Notepad </h1></p-->
-    <h1 align="center">Notepad</h1>
+    <h1 align="center">The simple text editor made in java</h1>
+    <h2>🖼️ Notepad</h2>
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
     <div style="position:relative;">
       <img src="https://github.com/CODING-Enthusiast9857/Notepad-Clone/blob/main/Notepad.jpg" alt="Notepad">
