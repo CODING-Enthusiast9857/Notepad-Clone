@@ -1,14 +1,14 @@
 <html>
   <body>
-    <!--p><h1 align="center" style="color:red;">&#128466;&#65039; Notepad </h1></p-->
-    <h1 align="center">The simple text editor made in java</h1>
-    <h2>🖼️ Notepad</h2>
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
-    <div style="position:relative;">
-      <img src="https://github.com/CODING-Enthusiast9857/Notepad-Clone/blob/main/Notepad.jpg" alt="Notepad">
+    <div align="center">
+      <h1 style="color:red;">Notepad </h1>
+      <img src="https://github.com/CODING-Enthusiast9857/Notepad-Clone/blob/main/Notepad.jpg" alt="Notepad" height=150>
     </div>
+    <!--p></p-->
+    <h2 align="center">The simple text editor made in java</h2>
     <p>
     <h2><p> &#128204; About </h2></p>
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
     <ol>
       <li> This is simple Notepad made using Java. </li>
       <li> Swing components have been used to develop this simple text editor. </li>
