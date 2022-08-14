@@ -1,7 +1,7 @@
 <html>
   <body>
     <div align="center">
-      <h1 style="color:red;">Notepad </h1>
+      <h1 style="color:red;">🅽🅾🆃🅴🅿🅰🅳</h1>
       <img src="https://github.com/CODING-Enthusiast9857/Notepad-Clone/blob/main/Notepad.jpg" alt="Notepad" height=150>
     </div>
     <!--p></p-->
