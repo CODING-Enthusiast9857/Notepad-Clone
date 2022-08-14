@@ -5,7 +5,9 @@
       <img src="https://github.com/CODING-Enthusiast9857/Notepad-Clone/blob/main/Notepad.jpg" alt="Notepad" height=150>
     </div>
     <!--p></p-->
-    <h2 align="center">The simple text editor made in java</h2>
+    <h2>(っ◔◡◔)っ <br><br>
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"><br>
+    𝓣𝓱𝓲𝓼 𝓲𝓼 𝓪𝓫𝓸𝓾𝓽 𝓽𝓱𝓮 𝓼𝓲𝓶𝓹𝓵𝓮 𝓉𝑒𝓍𝓉 𝑒𝒹𝒾𝓉❀𝓇 𝓶𝓪𝓭𝓮 𝓲𝓷 𝓳𝓪𝓿𝓪 </h2>
     <p>
     <h2><p> &#128204; About </h2></p>
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
