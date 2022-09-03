@@ -18,8 +18,8 @@
     </p>
     <h2><p> &#10024; Features </h2></p>
     <ol>
-      <li> There are total 4 tabs. File, Edit, Format & Help. </li>
-      <li> File
+      <li> There are total 4 tabs.<br> File, Edit, Format & Help. </li>
+      <li><b> File </b>
         <ol>
           <li> To create a new file. </li>
           <li> To edit existing file.</li>
@@ -27,7 +27,7 @@
           <li> To print the file. </li>
         </ol>
       </li>
-      <li> Edit 
+      <li> <b> Edit </b>
         <ol>
           <li> To cut the text. </li>
           <li> To copy the text. </li>
@@ -35,12 +35,12 @@
           <li> To select all text. </li>
         </ol>
       </li>
-      <li> Format
+      <li> <b> Format </b>
          <ol>
             <li> To wrap the text. </li>
          </ol>
       </li>
-      <li> Help
+      <li> <b> Help </b>
          <ol>
             <li> About Notepad </li>
          </ol>
