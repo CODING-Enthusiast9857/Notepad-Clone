@@ -18,6 +18,7 @@
     </p>
     <h2><p> &#10024; Features </h2></p>
     <ol>
+      <li> There are total 4 tabs </li>
       <li> We can create a new file. </li>
       <li> We can edit existing file.</li>
       <li> We can save, print the file. </li>
