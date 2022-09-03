@@ -40,6 +40,11 @@
             <li> To wrap the text. </li>
          </ol>
       </li>
+      <li> Help
+         <ol>
+            <li> About Notepad </li>
+         </ol>
+      </li>
     </ol>
     <h2><p> &#128247; Screenshots </h2></p>
     <div class="row">
