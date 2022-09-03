@@ -20,18 +20,23 @@
     <ol>
       <li> There are total 4 tabs. File, Edit, Format & Help. </li>
       <li> File
-      <ol>
-      <li> To create a new file. </li>
-      <li> To edit existing file.</li>
-      <li> To save the file. </li>
-      <li> To print the file. </li>
-      </ol>
+        <ol>
+          <li> To create a new file. </li>
+          <li> To edit existing file.</li>
+          <li> To save the file. </li>
+          <li> To print the file. </li>
+        </ol>
       </li>
-      <ol>
-      </ol>
-      <li> We can wrap the text. </li>
-
-      <li> It is also possible to perform cut, copy, paste operation in text editor. </li>
+      <li> Edit 
+        <ol>
+          <li> To perform cut, copy, paste operation in text editor. </li>
+        </ol>
+      </li>
+      <li> Format
+         <ol>
+            <li> To wrap the text. </li>
+         </ol>
+      </li>
     </ol>
     <h2><p> &#128247; Screenshots </h2></p>
     <div class="row">
