@@ -18,7 +18,7 @@
     </p>
     <h2><p> &#10024; Features </h2></p>
     <ol>
-      <li> There are total 4 tabs.<br> File, Edit, Format & Help. </li>
+      <li> There are total 4 tabs.<b> File, Edit, Format & Help. </b> </li>
       <li><b> File </b>
         <ol>
           <li> To create a new file. </li>
