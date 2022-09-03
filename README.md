@@ -29,7 +29,10 @@
       </li>
       <li> Edit 
         <ol>
-          <li> To perform cut, copy, paste operation in text editor. </li>
+          <li> To cut the text. </li>
+          <li> To copy the text. </li>
+          <li> To paste the text. </li>
+          <li> To select all text. </li>
         </ol>
       </li>
       <li> Format
