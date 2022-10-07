@@ -8,7 +8,7 @@ import javax.swing.filechooser.*;
 import java.io.*;
 import java.awt.print.PrinterException;
 import java.util.logging.*;
-class jSepMenu extends JFrame implements ActionListener
+class index extends JFrame implements ActionListener
 {
     Container c;
     JMenuBar mb;
@@ -229,7 +229,7 @@ class jSepMenu extends JFrame implements ActionListener
     }
     public static void main(String args[])throws Exception
     {
-        jSepMenu j=new jSepMenu();
+        index j=new index();
         j.setVisible(true);
         j.setLocation(150,50);
         j.setSize(1630,800);
