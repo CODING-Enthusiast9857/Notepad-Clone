@@ -19,7 +19,7 @@ class index extends JFrame implements ActionListener
     JSeparator s=new JSeparator();
     JTextArea ta;
     JScrollPane sp;
-    jSepMenu()
+    index()
     {
         c=getContentPane();
 
